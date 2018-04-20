@@ -1,4 +1,4 @@
-package bd.dokument.dao;
+package qqst.dao;
 
 public class dokumentdao3 {
 
